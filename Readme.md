@@ -23,14 +23,16 @@ The goal of this project is to predict company bankruptcy based on the dataset c
 
 4. **General Information**
 
-**Background:**
-The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange.
+    **Background:**
+    - The data were collected from the Taiwan Economic Journal for the years 1999 to 2009. Company bankruptcy was defined based on the business regulations of the Taiwan Stock Exchange.
 
-**Business Problem:**
-The task is to predict whether a company will go bankrupt based on various features collected over a span of ten years. Identifying companies at risk of bankruptcy is crucial for investors, creditors, and policymakers as it can inform decision-making processes and mitigate financial risks.
+    **Business Problem:**
+    - The task is to predict whether a company will go bankrupt based on various features collected over a span of ten years.
+    - Identifying companies at risk of bankruptcy is crucial for investors, creditors, and policymakers as it can inform decision-making processes and mitigate financial risks.
 
-**Dataset:**
-The dataset contains information collected from the Taiwan Economic Journal, including financial and non-financial features of companies. It is structured to facilitate the prediction of bankruptcy based on historical data.
+    **Dataset:**
+    - The dataset contains information collected from the Taiwan Economic Journal, including financial and non-financial features of companies. 
+    - It is structured to facilitate the prediction of bankruptcy based on historical data.
 
 
 **Contact**
