@@ -7,7 +7,6 @@ The goal of this project is to predict company bankruptcy based on the dataset c
 
 1. **General Information**
     - **Goal:** Predicting Company Bankruptcy
-    - **Data Set Link:** [Insert Data Set Link Here]
 
 2. **Technologies Used**
     - Python
