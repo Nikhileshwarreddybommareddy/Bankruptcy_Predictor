@@ -1,0 +1,15 @@
+[ 2025-02-26 20:43:48,432 ] 24 root - INFO - Entered Data Ingestion Pipeline
+[ 2025-02-26 20:43:48,539 ] 42 root - INFO - Successfully read the raw data from C:\Users\nikhi\Documents\NEU\Classes\25_Spring\ML_OPS_Krish_Naik\projects\Bankruptcy Predictor\data\raw\data.csv
+[ 2025-02-26 20:43:48,539 ] 44 root - INFO - Train Test Split Initiated
+[ 2025-02-26 20:43:48,551 ] 46 root - INFO - Completed Train Test Split Initiated
+[ 2025-02-26 20:43:48,632 ] 51 root - INFO - Train & Test set have been saved to C:\Users\nikhi\Documents\NEU\Classes\25_Spring\ML_OPS_Krish_Naik\projects\Bankruptcy Predictor\data\processed\train.csv & C:\Users\nikhi\Documents\NEU\Classes\25_Spring\ML_OPS_Krish_Naik\projects\Bankruptcy Predictor\data\processed\test.csv 
+[ 2025-02-26 20:43:48,632 ] 73 root - INFO - Reading train and test data completed
+[ 2025-02-26 20:43:48,693 ] 76 root - INFO - Reading train and test data completed
+[ 2025-02-26 20:43:48,709 ] 57 root - INFO - Categorical columns: []
+[ 2025-02-26 20:43:48,709 ] 58 root - INFO - Numerical columns: [' Borrowing dependency', ' Current Liability to Current Assets', ' Debt ratio %', " Net Income to Stockholder's Equity", ' Net Value Per Share (A)', ' Net profit before tax/Paid-in capital', ' Operating Gross Margin', ' Per Share Net profit before tax (Yuan ¥)', ' Persistent EPS in the Last Four Seasons', ' ROA(A) before interest and % after tax', ' Working Capital to Total Assets']
+[ 2025-02-26 20:43:48,709 ] 78 root - INFO - Initiated preprocessor
+[ 2025-02-26 20:43:48,709 ] 85 root - INFO - Applying preprocessing object on training dataframe and testing dataframe.
+[ 2025-02-26 20:43:48,734 ] 96 root - INFO - Saved preprocessing object.
+[ 2025-02-26 20:43:48,741 ] 27 root - INFO - Loaded train_array and test_array from DataTransformation
+[ 2025-02-26 20:43:48,757 ] 37 root - INFO - Starting RandomForestRegressor with predefined hyperparameters.
+[ 2025-02-26 20:43:48,757 ] 58 root - INFO - Starting RandomForestRegressor hyperparameter tuning with GridSearchCV.

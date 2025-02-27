@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+ipykernel
+imbalanced_learn==0.13.0
+mlflow==2.20.3
+streamlit==1.42.2
+plotly==6.0.0
+-e .
